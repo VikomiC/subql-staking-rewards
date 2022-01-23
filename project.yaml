@@ -1,8 +1,8 @@
 specVersion: 0.2.0
 name: staking-rewards
-version: 0.0.4
-description: Module 4 - Staking Rewards
-repository: https://github.com/subquery/subql-starter
+version: 1.0.0
+description: Module 4 - SubQuery Staking Rewards
+repository: https://github.com/VikomiC/subql-staking-rewards
 schema:
   file: ./schema.graphql
 network:

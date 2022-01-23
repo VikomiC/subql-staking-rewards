@@ -1,7 +1,7 @@
 {
   "name": "staking-rewards",
-  "version": "0.0.4",
-  "description": "Module 4 - Staking Rewards",
+  "version": "1.0.0",
+  "description": "Module 4 - SubQuery Staking Rewards",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc -b",
@@ -9,8 +9,8 @@
     "test": "jest",
     "codegen": "./node_modules/.bin/subql codegen"
   },
-  "homepage": "https://github.com/subquery/subql-starter",
-  "repository": "github:subquery/subql-starter",
+  "homepage": "https://github.com/VikomiC/subql-staking-rewards",
+  "repository": "github:VikomiC/subql-staking-rewards",
   "files": [
     "dist",
     "schema.graphql",
